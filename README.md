@@ -18,11 +18,28 @@ A few key factors go into making a great presentation for RTS. First, we need to
 Additionally, the code shown on RTS should have a beginning, middle, and end. Think of it as storytelling; you are are guiding viewers through an onboarding anatomy of a piece of code. What does that code do? Where does it do it? How does it do it? Why does it do it? Every codebase has a story. What is that story? Know your codebase & it's story.
 
 #### RTS Preparation Details
+- Show actual code. Not conceptual or eventual code but code that exists now
 - Create an outline for what you are going to talk about
-- Use a simple slide deck with 10 or fewer slides
+- Use a simple slide deck with 10 or fewer slides and minimal text description
 - Create and demo working code examples (we recommend prerecording these as animated gifs or video)
 - Plan out timing for slides & code transitions
 - Communicate with the RTS team so they know what they should ask an- Communicate with the RTS team so they know what they should ask an- Communicate with the RTS team so they know what they should ask an- Communicate with the RTS team so they know what they should ask an- Communicate with the RTS team so they know what they should ask an- Communicate with the RTS team so they know lems
-- find a quiet place to sit down
+- find a quiet place to sit down when we record
 - do not use the computer speakers to avoid feedback
+- Note that if you use earbuds that have a mic they can make scratch sounds if the mic touches something like a beard
+- Adjust your resolution to 1024 x 768 or higher
+- use sans-serif fonts for on screen material that is readable and at least 28pt in size
+
+### RTS Requirements
+We require that all guests presenting send us or share in some fashion their code & presention materials as well as an
+outline of the presentation & timing. We are happy to assist in the creation of this material if you need it. Outlines can
+be on anything from keynote to paper napkins ( take a photo or scan to share) & the material should be descriptive but
+doesn't need to be a book. A simple slide show with 5 slides with single short sentences & a few links is fine. Simple
+Content quality over verbose content documentation is preferred. We know it's a lot of work so ask us for tips & help as
+needed
+
+### RTS collaboration
+We are dedicated to helping you create great content for the Open Source community so we want and need to help review your
+content at least one week prior to our recording. We will help edit copy and we can optionally do a 15, 30, or 60 minute
+hangout where we can review, assist, & practice with you.
 
