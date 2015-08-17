@@ -8,7 +8,7 @@ RTS distributes content through our YouTube Channel, rss feed, iTunes Screencast
 Guest Presentors are expected to deliver quality video that viewers can easily consume through our video channel. This means we need a few guidelines and rules in order to effectively deliver this content.
 
 ### Our Story
-Christian Smith (Founder & CEO of Anvil Research) and Erik Isaksen (Google Developer Expert in Web Technologies) met on LinkedIn forums answering and asking several questions about Node.js & several JavaScript frameworks like Angular.js. Christian and Erik started pair programming on Angular projects and noted several problems they were having in their code at the framework level.
+Christian Smith (Founder & CEO of Anvil Research) and Erik Isaksen (Google Developer Expert in Web Technologies) met on LinkedIn forums answering and asking several questions about Node.js & several JavaScript frameworks like AngularJS. Christian and Erik started pair programming on Angular projects and noted several problems they were having in their code at the framework level.
 
 Christian & Erik decided to step through the Angular source code in the developer tools to find out what was happening. After the issues were resolved, they realized that other developers also had similar issues and could benefit by a live walkthrough of the code. Before long the two had a monthly meeting with several other developers where they took pieces of existing codebases and walked through the code step by step. 
 
