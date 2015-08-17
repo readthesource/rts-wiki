@@ -3,12 +3,12 @@
 ## Guest Presenters
 Guest Presenters are usually core developers or owners of an open source project but they can also be coders that use the project and know it well enough to present code and help viewers understand what the code is doing at given points. 
 
-RTS distributes content through our YouTube Channel, rss feed, iTunes, and other media channels that are free of charge for users. No one is, or ever will be, charged for standard RTS episodes. We are dedicated to helping software developers understand the technologies we use to build software in the 21st century.
+RTS distributes content through our YouTube Channel, rss feed, iTunes Screencasts, and other media channels that are free of charge for users. No one is, or ever will be, charged for standard RTS episodes. We are dedicated to helping software developers understand the technologies we use to build software in the 21st century.
 
 Guest Presentors are expected to deliver quality video that viewers can easily consume through our video channel. This means we need a few guidelines and rules in order to effectively deliver this content.
 
 ### Our Story
-Christian Smith, founder & CEO of Anvil Research, & Erik Isaksen, Google Developer Expert in Web Technologies, met on LinkedIn forums answering and asking several questions about Node.js & several JavaScript frameworks like Angular.js. Christian and Erik started pair programming on Angular projects and noted several problems they were having in their code at the framework level. 
+Christian Smith (Founder & CEO of Anvil Research) and Erik Isaksen (Google Developer Expert in Web Technologies) met on LinkedIn forums answering and asking several questions about Node.js & several JavaScript frameworks like Angular.js. Christian and Erik started pair programming on Angular projects and noted several problems they were having in their code at the framework level.
 
 Christian & Erik decided to step through the Angular source code in the developer tools to find out what was happening. After the issues were resolved, they realized that other developers also had similar issues and could benefit by a live walkthrough of the code. Before long the two had a monthly meeting with several other developers where they took pieces of existing codebases and walked through the code step by step. 
 
@@ -23,11 +23,10 @@ Additionally, the code shown on RTS should have a beginning, middle, and end. Th
 - Use a simple slide deck with 10 or fewer slides and minimal text description
 - Create and demo working code examples (we recommend prerecording these as animated gifs or video)
 - Plan out timing for slides & code transitions
-- Communicate with the RTS team so they know what they should ask an- Communicate with the RTS team so they know what they should ask an- Communicate with the RTS team so they know what they should ask an- Communicate with the RTS team so they know what they should ask an- Communicate with the RTS team so they know what they should ask an- Communicate with the RTS team so they know lems
-- find a quiet place to sit down when we record
+- Communicate with the RTS team so we can assist if you have questions
 - do not use the computer speakers to avoid feedback
 - Note that if you use earbuds that have a mic they can make scratch sounds if the mic touches something like a beard
-- Adjust your resolution to 1024 x 768 or higher
+- Adjust your resolution to 1024 x 768
 - use sans-serif fonts for on screen material that is readable and at least 28pt in size
 
 ### RTS Requirements
