@@ -22,9 +22,9 @@ Additionally, the code shown on RTS should have a beginning, middle, and end. Th
 - Create an outline for what you are going to talk about
 - Use a simple slide deck with 10 or fewer slides and minimal text description
 - Create and demo working code examples (we recommend prerecording these as animated gifs or video)
-- Plan out timing for slides & code transitions
+- Plan out timing for slides transitions & code demos
 - Communicate with the RTS team so we can assist if you have questions
-- do not use the computer speakers to avoid feedback
+- Do not use the computer speakers to avoid feedback
 - Note that if you use earbuds that have a mic they can make scratch sounds if the mic touches something like a beard
 - Adjust your resolution to 1024 x 768
 - use sans-serif fonts for on screen material that is readable and at least 28pt in size
